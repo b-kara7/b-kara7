@@ -3,6 +3,7 @@
 <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0F86DE&center=true&vCenter=true&width=500&lines=C%2FC%2B%2B+Gelistirici;42+Istanbul+Ogrencisi;Sistem+Programlama' />
 </div>
 <br/>
+
 ### 👨‍💻 Hakkımda
 Sağlık eğitiminin getirdiği kriz yönetimi disiplinini, kodun kusursuz mantık dünyasına aktaran hırslı bir yazılım geliştiriciyim.
 
