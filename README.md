@@ -1,43 +1,29 @@
-<h1 align="center">Hi, I'm Betül Esra Kara! 👋</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0F86DE&center=true&vCenter=true&width=500&lines=C%2FC%2B%2B+Developer;42+Istanbul+Student;System+Programming" alt="Typing SVG" />
-</div>
+<h1 align="center"> Betül Esra Kara </h1>
 
 <br/>
 
-### 👨‍💻 About Me
-An ambitious software developer who transfers the crisis management discipline gained from healthcare education into the flawless logical world of code.
+### About Me
 
-- 🎓 **Education:** **42 Istanbul** & **Anadolu University**
-- 💻 **Focus Areas:** C/C++, System Programming, Memory Management, and Linux Architecture.
-- 🚀 **Motivation:** Solving complex algorithmic problems and contributing to collective production.
-- 📫 **Contact:** [betulesrakara@gmail.com](mailto:betulesrakara@gmail.com)
+I am a software student at **42 Istanbul** with a deep passion for technology and software development. Driven by endless curiosity and an eagerness to learn, I actively work on low-level programming and modern frameworks to expand my knowledge. My ultimate goal is to specialize in software development and build impactful, secure solutions while continuously improving my skills to make a meaningful difference in the tech world. 🚀
 
----
+<br/>
 
-### 🚀 Featured Projects
-- **Minishell:** A leak-free shell application with a dynamic Bash-like parsing engine. *(C)*
-- **Philosophers:** A multithreading simulation preventing deadlocks via POSIX Threads and Mutex locks. *(C)*
-- **Walrus On-Chain:** A decentralized digital identity project developed with Move language at the Sui x 42 Hackathon.
-- **Push_swap & Born2beroot:** O(n log n) sorting algorithm optimization and Debian server deployment.
-- **Minitalk:** An IPC protocol ensuring bit-level lossless data transmission via UNIX signals. *(C)*
+### 🛠️ Technologies & Core Skills
 
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,ubuntu,debian,git&theme=dark" alt="Skills" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,debian" alt="Skills" />
 </p>
 
----
+- ⚙️ **Systems Programming:** UNIX/Linux Architecture, Process Management, Inter-Process Communication (IPC)
+- 🗄️ **Low-Level Concepts:** File Descriptors, Signal Handling, Memory Management
+- 🔄 **Concurrency & Multithreading:** POSIX Threads, Mutex, Deadlock Prevention
+- 🛡️ **System Administration:** Virtualization, SSH, UFW, LVM Configuration
+- 🧠 **Computer Science:** Data Structures, Algorithms & Problem Solving
+  
+### 📫 Connect
 
-### 🤝 Connect with me
+<p align="left">
+<a href="mailto:betulesrakara@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="32" width="32" style="margin-right: 5px;" /></a>
+<a href="https://www.linkedin.com/in/bet%C3%BCl-esra-kara-032308135/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="42" /></a>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/betül-esra-kara-032308135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/b-kara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
